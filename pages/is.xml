@@ -1,0 +1,50 @@
+<article data-sblg-article="1">
+<h1>About Anthony J. Bentley</h1>
+<p>
+I am
+a graduate student at
+the Department of Electrical and Computer Engineering of
+the University of New Mexico.
+</p>
+
+<p>
+Currently I am also an intern at
+<a href="http://www.sandia.gov/">Sandia National Laboratories</a>.
+</p>
+
+<h2>Contact details</h2>
+<p>
+The best way to reach me is by email:
+<a href="mailto:anthony@anjbe.name">anthony@anjbe.name</a>.
+</p>
+
+<h2>Encryption</h2>
+<p>
+I have <a href="id_rsa.pub">an OpenSSH public key</a>,
+which you can use to give me access to a shell account
+without insecurely sending a password via unencrypted email.
+</p>
+
+<p>
+I also have an <a href="gpg.txt">OpenPGP public key</a>
+through which I can receive encrypted email.
+Fingerprint: <tt>07D2 5A93 4C85 9EEE CB94  B12F 47A3 8F55 B959 59F7</tt>
+</p>
+
+<p>
+I also have a <a href="reop_pubkey.txt">reop public key</a>
+for use with <a href="http://www.tedunangst.com/flak/post/reop">reop</a>.
+</p>
+
+<h2>Social Networks</h2>
+<p>
+These are also me:
+</p>
+
+<ul>
+<li><a href="https://github.com/bentley/">Github: bentley</a></li>
+<li><a href="https://twitter.com/anthonyjbentley/">Twitter: anthonyjbentley</a></li>
+<li><a href="https://www.facebook.com/anthony.bentley/">Facebook: anthony.bentley</a></li>
+</ul>
+
+</article>

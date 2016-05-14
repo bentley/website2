@@ -1,0 +1,61 @@
+<article data-sblg-article="1">
+<header>
+<p style="text-align:center"><img src="/gfx/2012-pic.jpg" width="156" height="161" alt="" /></p>
+<h1 style="text-align:center;font-size:1em;font-weight:normal">Anthony J. Bentley</h1>
+</header>
+
+<h1>About me</h1>
+<p>
+I am a graduate student at
+the Department of Electrical and Computer Engineering of
+the University of New Mexico.
+My primary interests are:
+</p>
+
+<ul>
+<li>Embedded systems programming</li>
+<li>BSD, Linux, and other UNIX‐like operating systems</li>
+<li>Digital hardware and <abbr title="Field Programmable Gate Array">FPGA</abbr> design</li>
+<li>Computer security, forensics, and reverse engineering</li>
+<li>Web design and computer networks</li>
+</ul>
+
+<p>
+Currently I am an intern at
+<a href="http://www.sandia.gov/">Sandia National Laboratories</a>,
+Special Radars &amp; Communications department.
+</p>
+
+<p>
+I am also a developer for the OpenBSD operating system.
+My main role is as a packager:
+I import new software packages, update existing ones,
+and push bugfixes and feature improvements upstream.
+</p>
+
+<p>
+Occasionally, I put pictures that I’ve taken
+<a href="https://commons.wikimedia.org/w/index.php?title=Special:ListFiles/Anjbe&amp;ilshowall=1">
+onto Wikimedia Commons</a>.
+</p>
+
+<h1>Other stuff</h1>
+
+<ul>
+<li><a href="/quotes/">Interesting quotes</a></li>
+<li><a href="/genealogy/">Bentley family Genealogy</a></li>
+<li><a href="/philosophy/free-culture/">Free Culture Links</a></li>
+</ul>
+
+<h1>Contact me</h1>
+
+<p>
+The best way to reach me is by email:
+<a href="mailto:anthony@anjbe.name">anthony@anjbe.name</a>
+</p>
+
+<p>
+For encryption keys, see <a href="/is/">Contact information</a>.
+</p>
+
+</article>

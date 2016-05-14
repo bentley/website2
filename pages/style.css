@@ -1,0 +1,101 @@
+/*
+ * VERY important single-line comments look like this.
+ */
+
+/* Most single-line comments look like this. */
+
+/*
+ * Multi-line comments look like this. Make them real sentences.
+ * Fill them so they look like real paragraphs.
+ */
+
+html {
+	background:	#191814;
+	color:		#EEEEEE;
+	text-shadow:	black -1px 0px 0px, black 0px -1px 0px, black 1px 0px 0px, black 0px 1px 0px;
+	font-family:	"Bitstream Vera Sans",sans-serif;
+	font-size: 1.1em;
+	font-weight: lighter;
+	line-height: 1.4;
+	word-spacing:	0.1em;
+}
+
+body {
+	max-width: 60em;
+	margin: 6em auto;
+}
+
+body > * {
+	background: #13120e;
+	border: #000 1px solid;
+	padding: 1.5em;
+}
+
+/*
+#container {
+	width:      55em;
+	margin:     0 auto;
+	background: #171743;
+	border:     #000000
+	            1px
+	            solid;
+	padding:    0 0 1em;
+	line-height: 1.4em;
+}
+*/
+
+h1 {
+	letter-spacing: 0.2em;
+	text-align:     right;
+	font-family:    "Bitstream Vera Serif", serif;
+	font-weight:    bolder;
+	letter-spacing: 0.07em;
+}
+
+h2, h3, h4, h5, h6 {
+	font-family: "Bitstream Vera Serif", serif;
+	font-weight:    bolder;
+}
+
+hr {
+	border-bottom: rgba(255,255,255,0.09) 1px solid;
+	border-top: rgba(0,0,0,0.8) 1px solid;
+	border-right: 0px;
+	border-left: 0px;
+}
+
+table {
+	border-collapse: collapse;
+	margin-left: -1.5em;
+	margin-right: -1.5em;
+}
+td, th {
+	border: #000 1px solid;
+}
+tr, tr:first-child {
+	border-left: hidden;
+}
+tr, tr:last-child {
+	border-right: hidden;
+}
+
+a {
+	color: #FFCD8B;
+	font-weight: bolder;
+	text-decoration: none;
+}
+
+.code {
+	margin-left: -1.5em;
+	margin-right: -1.5em;
+	padding-left: 1.5em;
+	padding-right: 1.5em;
+	background: #100510;
+	border-top: #999 1px dotted;
+	border-bottom: #999 1px dotted;
+}
+
+.code pre {
+	padding-left: 1em;
+	white-space: pre-wrap;
+}

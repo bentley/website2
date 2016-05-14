@@ -1,0 +1,8 @@
+AddDefaultCharset UTF-8
+RewriteEngine On
+
+RewriteCond %{HTTP_HOST} ^anjbe\.name [OR]
+RewriteCond %{HTTP_HOST} ^anthony\.bentley\.name
+RewriteRule (.*) https://www.anjbe.name/$1 [R=301,L]
+
+Header set Strict-Transport-Security "max-age=31536000" "expr=%{req_novary:X-Forwarded-Proto}=='https'"

@@ -1,0 +1,6 @@
+<!DOCTYPE html>
+<html>
+<title>${sblg-title}</title>
+<link rel="stylesheet" href="/style.css" />
+<article data-sblg-article="1" />
+</html>
